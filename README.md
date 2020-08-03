@@ -1,7 +1,7 @@
-### Base docker image with Ubuntu GNOME.
+### Base docker image with Pop!\_OS
 
 Use it by putting this at the start of your `Dockerfile`:
 
 ```Dockerfile
-FROM hugojosefson/ubuntu-gnome:19.04
+FROM hugojosefson/popos
 ```

@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker push hugojosefson/ubuntu-gnome:19.04
+docker push hugojosefson/popos:20.04
